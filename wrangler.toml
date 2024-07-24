@@ -1,4 +1,4 @@
-name = "byt3h3ad"
+name = "home"
 compatibility_date = "2024-07-24"
 main = "src/index.ts"
 minify = true
