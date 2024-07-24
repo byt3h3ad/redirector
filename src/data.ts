@@ -11,6 +11,7 @@ export const metadata = {
     twitter: "https://x.com/byt3h3ad",
     movies: "https://trakt.tv/users/bytehead",
     music: "https://www.last.fm/user/notbytehead",
+    links: "https://raindrop.io/adhiraj",
     resume:
       "https://drive.google.com/file/d/1Y0mkUytuV1nXixLeiftlb_1rPFtN4tfw/view",
   },
