@@ -1,0 +1,23 @@
+{
+  "name": "byt3h3ad",
+  "version": "1.0.0",
+  "description": "A Cloudflare Worker for byt3h3ad",
+  "main": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byt3h3ad/worker.git"
+  },
+  "author": "Adhiraj Dutta <bytehead.dev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "wrangler dev src/index.ts",
+    "deploy": "wrangler deploy --minify src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.5.1"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240529.0",
+    "wrangler": "^3.57.2"
+  }
+}
