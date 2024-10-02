@@ -3,6 +3,8 @@ compatibility_date = "2024-07-24"
 main = "src/index.ts"
 minify = true
 
+[observability]
+enabled = true
 # [vars]
 # MY_VAR = "my-variable"
 
