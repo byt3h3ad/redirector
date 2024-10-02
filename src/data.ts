@@ -4,9 +4,9 @@ export const metadata = {
   email: "bytehead.dev@gmail.com",
   location: "India",
   sites: {
-    website: "https://adhiraj.me",
-    blog: "https://adhiraj.me/blog/",
-    til: "https://adhiraj.me/til/",
+    website: "https://adhiraj.tech",
+    blog: "https://adhiraj.tech/blog/",
+    til: "https://adhiraj.tech/til/",
     github: "https://github.com/byt3h3ad",
     twitter: "https://x.com/byt3h3ad",
     linkedin: "https://linkedin.com/in/byt3h3ad",
