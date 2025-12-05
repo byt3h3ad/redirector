@@ -12,6 +12,7 @@ export const metadata = {
     github: "https://github.com/byt3h3ad",
     twitter: "https://x.com/byt3h3ad",
     linkedin: "https://linkedin.com/in/byt3h3ad",
+    books: "https://www.goodreads.com/user/show/183221561-adhiraj-dutta",
     movies: "https://trakt.tv/users/bytehead",
     music: "https://www.last.fm/user/notbytehead",
     links: "https://raindrop.io/adhiraj",
