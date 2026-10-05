@@ -1,4 +1,4 @@
-const URL = "https://adhiraj.rocks";
+const URL = "https://adhiraj.foo";
 
 export const metadata = {
   fullName: "Adhiraj Dutta",
